@@ -13,7 +13,7 @@ de s4vitar.
 
 Parrot OS 4.11.2
 
-img
+![Screenshot_1](https://user-images.githubusercontent.com/67207446/141700836-8a867bf5-8843-4fe9-8f90-ba0d4e8e1914.png)
 
 ## Install
 
