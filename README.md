@@ -17,7 +17,15 @@ Parrot OS 4.11.2
 
 ## Install
 
+git clone https://github.com/Anonimo501/host_scan.git
+
+cd host_scan
+
+chmod +x host_scan.sh
+
 ## Uso
+
+./host_scan.sh
 
 # Referencias
 
