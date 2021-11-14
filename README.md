@@ -30,6 +30,7 @@ chmod +x host_scan.sh
 ## Uso
 
 ./host_scan.sh
+./host_scan-ACTIVE.sh
 
 # Referencias
 
